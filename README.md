@@ -57,7 +57,6 @@ The planning phase focuses on defining the overall system structure and ensuring
 | Issue / Problem | Possible Cause | Testing / Checking Method | Solution |
 |-----------------|----------------|---------------------------|----------|
 | ESP8266 not powering ON | No power or incorrect voltage | Measure VIN using multimeter | Ensure 5V supply and common ground |
-| ESP8266 resets when motors run | Voltage drop due to motor load | Observe voltage while motors operate | Add 470–1000µF capacitor |
 | Motors not rotating | Loose wiring or disabled EN pins | Test motor directly with battery | Reconnect wires, enable ENA/ENB |
 | Motors rotate in wrong direction | Reversed polarity | Swap motor terminal wires | Correct motor wiring |
 | One motor not working | Faulty motor or driver channel | Swap motors between outputs | Replace faulty component |
