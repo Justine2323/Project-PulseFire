@@ -12,7 +12,7 @@ The PulseFire project was designed as a wireless-controlled embedded system that
 ## Table of Contents
 - [PART 1: Planning](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-2-troubleshooting--testing](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-1-planning))
 - [PART 2: Troubleshooting & Testing](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-2-troubleshooting--testing)
-- [PART 3: Final Output](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#31-resultsvideo)
+- [PART 3: Final Output](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-3-final-output)
 - [Results and Summarization](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#results-and-summarization)
 
 
