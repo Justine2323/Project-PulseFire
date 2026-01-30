@@ -2,7 +2,7 @@
 ## 📌 Overview
 
 <p align="justify">
-Purpose : For entry to the upcoming event of ECES-IECEP UE-Caloocan Campus named "ASICUP" competition and also for my final project in final term in Communication 2 laboratory
+Purpose : For entry to the upcoming event of ECES-IECEP UE-Caloocan Campus named "ASICUP" competition and also for my final project in final term of Communication 2 laboratory
 </p>
 
 <p align="justify">
