@@ -10,7 +10,10 @@ The PulseFire project was designed as a wireless-controlled embedded system that
 </p>
 
 ## Table of Contents
-
+- [PART 1: Planning](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-2-troubleshooting--testing](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-1-planning))
+- [PART 2: Troubleshooting & Testing](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-2-troubleshooting--testing)
+- [PART 3: Final Output](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#31-resultsvideo)
+- [Results and Summarization](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#results-and-summarization)
 
 
 ## Part 1: Planning
@@ -152,7 +155,9 @@ https://github.com/user-attachments/assets/1ec75821-a175-4529-a3f2-0750c974e089
 <p align="justify"> This PulseFire project was successfully achieved its intended objectives by producing a fully operational WiFi-controlled embedded system. Based on the testing procedures and video results, this system demonstrated stable wireless connectivity, responsive motor control, and reliable interaction through the graphical user interface (GUI). All of major hardware components such as ESP8266, L298N motor driver, and N20 motors, functioned correctly and were properly integrated. 
 </p> 
 
-<a id="top"></a>
+
+[BACK TO TOP ](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#project-pulsefire)
+
 
 
 
