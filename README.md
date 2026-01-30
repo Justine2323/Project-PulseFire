@@ -96,8 +96,69 @@ The planning phase focuses on defining the overall system structure and ensuring
 
 <details>
   <summary> Press the button </summary>
-    
+  
+https://github.com/user-attachments/assets/524daced-49cc-426e-8bb9-c1e31907769f
+
 </details>
+
+## Part 3: Final Output
+<p align = "justify">
+The final output of the PulseFire project is a fully functional WiFi-controlled embedded system capable of real-time motor control through a graphical user interface (GUI). The system successfully integrates hardware components and software logic, enabling stable wireless communication, responsive control, and reliable operation. This output demonstrates the effective application of communication principles, embedded programming, and system integration in a working prototype.
+</p>
+
+### 3.0 Prototype/Output
+
+| TOP-SIDE | BOTTOM-SIDE |
+|----------|-------------|
+|<img width="609" height="809" alt="image" src="https://github.com/user-attachments/assets/47229247-54f6-4c04-8cef-71ec3ef03986" />|<img width="603" height="805" alt="image" src="https://github.com/user-attachments/assets/a295370c-fc0c-4293-92ce-9990efd425ec" />|
+
+| FRONT-SIDE | BACK-SIDE |
+|------------|-----------|
+|<img width="599" height="796" alt="image" src="https://github.com/user-attachments/assets/78df6473-19ac-4423-9c52-ca67698d0ae0" />|<img width="607" height="806" alt="image" src="https://github.com/user-attachments/assets/a31a7545-324b-4dc6-a0eb-311e3117ac70" />|
+
+| LEFT-SIDE | RIGHT-SIDE |
+|-----------|------------|
+|<img width="598" height="809" alt="image" src="https://github.com/user-attachments/assets/81071d69-3b95-4eda-97b2-7fb76322b1e9" />|<img width="607" height="817" alt="image" src="https://github.com/user-attachments/assets/e00d4b2d-1405-4a81-92a1-313453b5d8ff" /> |
+
+    
+|       ISOMETRIC        |
+|------------------------|
+|<img width="825" height="737" alt="image" src="https://github.com/user-attachments/assets/fabe2d53-c1e5-4af0-8057-116edf350892" />|
+  
+### 3.1 Results/Video
+<p align="justify">
+The results show that the PulseFire system is fully functional, as demonstrated in the recorded video output. The video confirms successful Wi-Fi connectivity, responsive control through the graphical user interface (GUI), and proper motor operation in real time. This validates the correct integration of hardware and software components and the effectiveness of the implemented coding and modulation techniques.
+</p>
+
+https://github.com/user-attachments/assets/1ec75821-a175-4529-a3f2-0750c974e089
+
+
+## Results and Summarization
+
+| Aspect | Description | Result |
+|------|-------------|--------|
+| System Functionality | Overall operation of PulseFire system | Fully functional |
+| Wi-Fi Connectivity | Wireless communication between GUI and ESP8266 | Stable and reliable |
+| GUI Control | User command input and real-time response | Responsive |
+| Motor Operation | Direction and speed control via L298N and PWM | Accurate and smooth |
+| Hardware Integration | ESP8266, L298N, N20 motors, Battery | Properly integrated |
+| Software Performance | Command processing and control logic | Stable execution |
+| Coding Technique | Digital command encoding and processing | Successfully implemented |
+| Modulation Technique | Wi-Fi-based digital modulation (QAM/PSK) | Effective transmission |
+| Testing Outcome | Hardware, software, and serial testing | Passed |
+| Project Objective | ASICUP competition & Comm 2 Lab requirement | Achieved |
+
+
+<p align="justify"> This PulseFire project was successfully achieved its intended objectives by producing a fully operational WiFi-controlled embedded system. Based on the testing procedures and video results, this system demonstrated stable wireless connectivity, responsive motor control, and reliable interaction through the graphical user interface (GUI). All of major hardware components such as ESP8266, L298N motor driver, and N20 motors, functioned correctly and were properly integrated. 
+</p> 
+
+<a id="top"></a>
+
+
+
+
+
+
 
 
 
