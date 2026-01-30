@@ -22,31 +22,41 @@ The PulseFire project was designed as a wireless-controlled embedded system that
 The planning phase focuses on defining the overall system structure and ensuring proper integration of all hardware components before actual implementation. This stage includes the preparation of the schematic diagram and circuit diagram to clearly visualize power distribution, signal flow, and component interconnections. Through careful planning, potential design errors are minimized, system reliability is improved, and the development process becomes more efficient and organized.
 </p>
 
-### 1.0 Schematic Diagram
+### 1.0 Materials Needes
+- 2 x 18650 Lithium ion Batteries
+- 1 x L298N Motor Driver
+- 1 x ESP8266
+- 4 x 1000rpm DC motors
+- 4 x N20 Wheels
+- Acrylic Case (14x9x8cm)
+- Jumper Wires (20cm & 5cm)
+
+- 
+### 1.1 Schematic Diagram
 <details>
   <summary> Press the button </summary>
     <img width="857" height="480" alt="image" src="https://github.com/user-attachments/assets/86e033e8-0111-4387-b61f-3dfe4d2ad9b7" />
     <p align="center">
-      <em> Figure 1.0.0 </em>
+      <em> Figure 1.1.0 </em>
     </p>
 
 </details>
 
-### 1.1 Circuit Diagram
+### 1.2 Circuit Diagram
 <details>
   <summary> Press the button </summary>
     <img width="1252" height="808" alt="image" src="https://github.com/user-attachments/assets/49e3aadb-1578-46aa-9c0d-79d1fbf6ead5" />
     <p align = "center">
-      <em> Figure 1.1.0 </em>
+      <em> Figure 1.2.0 </em>
     </p>
 </details>
 
-### 1.2 Prototyping 
+### 1.3 Prototyping 
 <details>
   <summary> Press the button </summary>
     <img width="970" height="536" alt="image" src="https://github.com/user-attachments/assets/b3a97230-4e10-4306-8ea2-70382db6391c" />
     <p align = "center">
-      <em> Figure 1.2.0 </em>
+      <em> Figure 1.3.0 </em>
     </p>
 
 </details>
