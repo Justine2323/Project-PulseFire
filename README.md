@@ -22,7 +22,7 @@ The PulseFire project was designed as a wireless-controlled embedded system that
 The planning phase focuses on defining the overall system structure and ensuring proper integration of all hardware components before actual implementation. This stage includes the preparation of the schematic diagram and circuit diagram to clearly visualize power distribution, signal flow, and component interconnections. Through careful planning, potential design errors are minimized, system reliability is improved, and the development process becomes more efficient and organized.
 </p>
 
-### 1.0 Materials Needes
+### 1.0 Materials Needed
 - 2 x 18650 Lithium ion Batteries
 - 1 x L298N Motor Driver
 - 1 x ESP8266
@@ -31,7 +31,6 @@ The planning phase focuses on defining the overall system structure and ensuring
 - Acrylic Case (14x9x8cm)
 - Jumper Wires (20cm & 5cm)
 
-- 
 ### 1.1 Schematic Diagram
 <details>
   <summary> Press the button </summary>
