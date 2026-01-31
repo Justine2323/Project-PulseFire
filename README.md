@@ -32,7 +32,7 @@ The planning phase focuses on defining the overall system structure and ensuring
 - Acrylic Case (14x9x8cm)
 - Jumper Wires (20cm & 5cm)
 
-### 1.1 Schematic Diagram
+### 1.1 Block Diagram
 <details>
   <summary> Press the button </summary>
     <img width="857" height="480" alt="image" src="https://github.com/user-attachments/assets/86e033e8-0111-4387-b61f-3dfe4d2ad9b7" />
@@ -42,7 +42,7 @@ The planning phase focuses on defining the overall system structure and ensuring
 
 </details>
 
-### 1.2 Circuit Diagram
+### 1.2 Schematic/Circuit Diagram
 <details>
   <summary> Press the button </summary>
     <img width="1252" height="808" alt="image" src="https://github.com/user-attachments/assets/49e3aadb-1578-46aa-9c0d-79d1fbf6ead5" />
@@ -63,7 +63,7 @@ The planning phase focuses on defining the overall system structure and ensuring
   
 ## Part 2: Troubleshooting & Testing 
 
-### 2.1 Hardware Test
+### 2.0 Hardware Test
 | Issue / Problem | Possible Cause | Testing / Checking Method | Solution |
 |-----------------|----------------|---------------------------|----------|
 | ESP8266 not powering ON | No power or incorrect voltage | Measure VIN using multimeter | Ensure 5V supply and common ground |
@@ -76,7 +76,7 @@ The planning phase focuses on defining the overall system structure and ensuring
   This troubleshoot integrates an ESP8266, L298N motor driver, N20 motors, and battery supply to achieve reliable wireless motor control.
 </p>
 
-### 2.2 Software Test
+### 2.1 Software Test
 
 | Issue / Problem | Possible Cause | Testing / Checking Method | Solution |
 |-----------------|----------------|---------------------------|----------|
@@ -92,7 +92,7 @@ The planning phase focuses on defining the overall system structure and ensuring
   This troubleshoot enables Wi-Fi communication, processes user commands, and controls motor speed and direction using PWM.
 </p>
 
-### 2.3 Serial Test
+### 2.2 Serial Test
 <p align = "justify">
   This troubleshooting focuses on monitoring serial data thru Arduino INO Serial Monitor to Android app "NodeMCU Car"
 </p>
@@ -101,7 +101,7 @@ The planning phase focuses on defining the overall system structure and ensuring
   <summary> Press the button </summary>
     <img width="1103" height="823" alt="image" src="https://github.com/user-attachments/assets/659a9861-386f-4328-9df0-4abf6502d3e7" />
     <p align = "center">
-      <em> Figure 2.3.0 </em>
+      <em> Figure 2.2.0 </em>
     </p>
   
 </details>
