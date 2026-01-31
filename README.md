@@ -11,9 +11,17 @@ The PulseFire project was designed as a wireless-controlled embedded system that
 
 ## Table of Contents
 - [PART 1: Planning](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-2-troubleshooting--testing](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-1-planning))
-  - [Materials Needed](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#10-materials-needed)
+  - [1.0 Materials Needed](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#10-materials-needed)
+  - [1.1 Block Diagram](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#11-block-diagram)
+  - [1.2 Schematic/Circuit Diagram](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#12-schematiccircuit-diagram)
+  - [1.3 Prototyping](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#13-prototyping)
 - [PART 2: Troubleshooting & Testing](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-2-troubleshooting--testing)
+  - [2.0 Hardware Test](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#20-hardware-test)
+  - [2.1 Software Test](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#21-software-test)
+  - [2.2 Serial Test](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#22-serial-test)
 - [PART 3: Final Output](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#part-3-final-output)
+  - [3.0 Prototype/Output](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#30-prototypeoutput)
+  - [3.1 Results/Video](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#31-resultsvideo)
 - [Results and Summarization](https://github.com/Justine2323/Project-PulseFire?tab=readme-ov-file#results-and-summarization)
 
 
