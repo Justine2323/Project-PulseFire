@@ -1,9 +1,6 @@
 <div id="top"></div>
 
 # Project-PulseFire
-
-
-# Project-PulseFire
 ## 📌 Overview
 
 <p align="justify">
