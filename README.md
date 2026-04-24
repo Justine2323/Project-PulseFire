@@ -34,6 +34,9 @@ The planning phase focuses on defining the overall system structure and ensuring
 </p>
 
 ### 1.0 Materials Needed
+<details>
+  <summary> Press the button </summary>
+  
 - 2 x 18650 Lithium ion Batteries
 - 1 x L298N Motor Driver
 - 1 x ESP8266
@@ -42,34 +45,39 @@ The planning phase focuses on defining the overall system structure and ensuring
 - Acrylic Case (14x9x8cm)
 - Jumper Wires (20cm & 5cm)
 
-### 1.1 Block Diagram
-<details>
-  <summary> Press the button </summary>
-    <img width="857" height="480" alt="image" src="https://github.com/user-attachments/assets/86e033e8-0111-4387-b61f-3dfe4d2ad9b7" />
-    <p align="center">
-      <em> Figure 1.1.0 </em>
     </p>
 
 </details>
+
+### 1.1 Block Diagram
+
+<p align="center">
+  <img width="1280 " height="640 " alt="image" src="https://github.com/user-attachments/assets/86e033e8-0111-4387-b61f-3dfe4d2ad9b7" />
+      </p>
+      
+  <p align="center">
+    <em> Figure 1.1.0 </em>
+  </p>
 
 ### 1.2 Schematic/Circuit Diagram
-<details>
-  <summary> Press the button </summary>
-    <img width="1252" height="808" alt="image" src="https://github.com/user-attachments/assets/49e3aadb-1578-46aa-9c0d-79d1fbf6ead5" />
-    <p align = "center">
-      <em> Figure 1.2.0 </em>
+
+<p align="center">
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/49e3aadb-1578-46aa-9c0d-79d1fbf6ead5" />
     </p>
-</details>
+    
+  <p align = "center">
+      <em> Figure 1.2.0 </em>
+  </p>
 
 ### 1.3 Prototyping 
-<details>
-  <summary> Press the button </summary>
-    <img width="970" height="536" alt="image" src="https://github.com/user-attachments/assets/b3a97230-4e10-4306-8ea2-70382db6391c" />
-    <p align = "center">
-      <em> Figure 1.3.0 </em>
-    </p>
 
-</details>
+  <p align = "center">
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/b3a97230-4e10-4306-8ea2-70382db6391c" />
+  </p>
+  
+  <p align = "center">
+      <em> Figure 1.3.0 </em>
+  </p>
   
 ## Part 2: Troubleshooting & Testing 
 
@@ -107,17 +115,18 @@ The planning phase focuses on defining the overall system structure and ensuring
   This troubleshooting focuses on monitoring serial data thru Arduino INO Serial Monitor to Android app "NodeMCU Car"
 </p>
 
-<details>
-  <summary> Press the button </summary>
-    <img width="1103" height="823" alt="image" src="https://github.com/user-attachments/assets/659a9861-386f-4328-9df0-4abf6502d3e7" />
-    <p align = "center">
+   <p align = "center">
+  <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/659a9861-386f-4328-9df0-4abf6502d3e7" />
+    </p>
+    
+   <p align = "center">
       <em> Figure 2.2.0 </em>
     </p>
   
-</details>
+
 
 <details>
-  <summary> Press the button </summary>
+  <summary> OUTPUT RESULTS </summary>
   
 https://github.com/user-attachments/assets/524daced-49cc-426e-8bb9-c1e31907769f
 
@@ -145,7 +154,12 @@ The final output of the PulseFire project is a fully functional WiFi-controlled 
     
 |       ISOMETRIC        |
 |------------------------|
-|<img width="825" height="737" alt="image" src="https://github.com/user-attachments/assets/fabe2d53-c1e5-4af0-8057-116edf350892" />|
+|<img width="1000" height="737" alt="image" src="https://github.com/user-attachments/assets/fabe2d53-c1e5-4af0-8057-116edf350892" />|
+
+|       WEIGHT TEST        |
+|------------------------|
+|<img width="1000" height="737" alt="image" src="https://github.com/user-attachments/assets/9bfb9506-0a27-4f62-b84d-0278cfdf7834" />|
+
   
 ### 3.1 Results/Video
 <p align="justify">
